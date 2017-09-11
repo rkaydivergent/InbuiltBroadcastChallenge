@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InbuiltBroadcastChallenge</string>
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
+    <string name="custom_broadcast_toast">Custom Broadcast Received</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="receiver_on">Receiver On</string>
+    <string name="receiver_off">Receiver Off</string>
+    <string name="after_boot_text">Device booted after half an hour</string>
+    <string name="rhis">this</string>
+</resources>
